@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
-    <title> Dungeons & Dragons </title>
     <link rel="stylesheet" href="css/stule.css">
 </head>
 <body>
@@ -21,7 +20,6 @@
     <br><br>
     <div align="center">
         <a href="сайт.html">Главная</a><br>
-        <a href="https://hobbygames.ru/dungeons-and-dragons"><img src="DNDshss.png"></a>
-    </div>
+     </div>
 </body>
 </html>
